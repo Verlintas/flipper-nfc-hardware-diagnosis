@@ -1,0 +1,92 @@
+log debug
+Current log level: debug
+Use <log ?> to list available log levels
+Press CTRL+C to stop...
+287894 [0;32m[I][AnimationManager] [0mUnload animation 'L1_Sleep_128x64'
+287898 [0;32m[I][Loader] [0mLoading /ext/apps/NFC/nfc.fap
+288058 [0;32m[I][Loader] [0mMapping
+288070 [0;32m[I][Elf] [0mTotal size of loaded sections: 74893
+288073 [0;32m[I][Loader] [0mLoaded in 175ms
+288075 [0;32m[I][Loader] [0mStarting app
+288078 [0;32m[I][FuriHalNfc] [0mNFC chip id: 0xFF
+288080 [0;32m[I][FuriHalNfc] [0mBoot diag: fail, attempts 8, ids: FF FF FF FF FF FF FF FF
+288084 [0;31m[E][FuriHalNfc] [0mWrong chip id: got 0xFF, expected 0x28, retrying after chip reset
+288094 [0;32m[I][FuriHalNfc] [0mNFC chip id after reset: 0xFF
+288096 [0;31m[E][FuriHalNfc] [0mWrong chip id after reset: got 0xFF
+291153 [0;32m[I][Loader] [0mApp returned: 0
+291163 [0;32m[I][Loader] [0mApplication stopped. Free heap: 147128
+291172 [0;32m[I][AnimationStorage] [0mBase manifest selected
+291322 [0;32m[I][AnimationManager] [0mSelect 'L1_Sleep_128x64' animation
+291328 [0;32m[I][AnimationManager] [0mLoad animation 'L1_Sleep_128x64'
+291954 [0;32m[I][AnimationManager] [0mUnload animation 'L1_Sleep_128x64'
+291958 [0;32m[I][Loader] [0mLoading /ext/apps/NFC/nfc.fap
+292117 [0;32m[I][Loader] [0mMapping
+292129 [0;32m[I][Elf] [0mTotal size of loaded sections: 74893
+292132 [0;32m[I][Loader] [0mLoaded in 174ms
+292134 [0;32m[I][Loader] [0mStarting app
+292137 [0;32m[I][FuriHalNfc] [0mNFC chip id: 0xFF
+292139 [0;32m[I][FuriHalNfc] [0mBoot diag: fail, attempts 8, ids: FF FF FF FF FF FF FF FF
+292143 [0;31m[E][FuriHalNfc] [0mWrong chip id: got 0xFF, expected 0x28, retrying after chip reset
+292154 [0;32m[I][FuriHalNfc] [0mNFC chip id after reset: 0xFF
+292156 [0;31m[E][FuriHalNfc] [0mWrong chip id after reset: got 0xFF
+296574 [0;32m[I][Loader] [0mApp returned: 0
+296587 [0;32m[I][Loader] [0mApplication stopped. Free heap: 147112
+296602 [0;32m[I][AnimationStorage] [0mBase manifest selected
+296751 [0;32m[I][AnimationManager] [0mSelect 'L1_Sleep_128x64' animation
+296755 [0;32m[I][AnimationManager] [0mLoad animation 'L1_Sleep_128x64'
+298551 [0;32m[I][AnimationManager] [0mUnload animation 'L1_Sleep_128x64'
+298555 [0;32m[I][Loader] [0mLoading /ext/apps/NFC/nfc.fap
+298726 [0;32m[I][Loader] [0mMapping
+298738 [0;32m[I][Elf] [0mTotal size of loaded sections: 74893
+298741 [0;32m[I][Loader] [0mLoaded in 186ms
+298743 [0;32m[I][Loader] [0mStarting app
+298746 [0;32m[I][FuriHalNfc] [0mNFC chip id: 0xFF
+298748 [0;32m[I][FuriHalNfc] [0mBoot diag: fail, attempts 8, ids: FF FF FF FF FF FF FF FF
+298752 [0;31m[E][FuriHalNfc] [0mWrong chip id: got 0xFF, expected 0x28, retrying after chip reset
+298762 [0;32m[I][FuriHalNfc] [0mNFC chip id after reset: 0xFF
+298764 [0;31m[E][FuriHalNfc] [0mWrong chip id after reset: got 0xFF
+303540 [0;34m[D][BleGap] [0mStart: 4
+303541 [0;34m[D][BleGap] [0mset_non_discoverable success
+303544 [0;34m[D][BtSrv] [0mcall 0, lock 0x00000000, result 0x00000000
+303572 [0;32m[I][Loader] [0mApp returned: 0
+303583 [0;32m[I][Loader] [0mApplication stopped. Free heap: 147112
+303601 [0;32m[I][AnimationStorage] [0mBase manifest selected
+303749 [0;32m[I][AnimationManager] [0mSelect 'L1_Sleep_128x64' animation
+303753 [0;32m[I][AnimationManager] [0mLoad animation 'L1_Sleep_128x64'
+306105 [0;32m[I][AnimationManager] [0mUnload animation 'L1_Sleep_128x64'
+306109 [0;32m[I][Loader] [0mLoading /ext/apps/NFC/nfc.fap
+306269 [0;32m[I][Loader] [0mMapping
+306281 [0;32m[I][Elf] [0mTotal size of loaded sections: 74893
+306284 [0;32m[I][Loader] [0mLoaded in 175ms
+306286 [0;32m[I][Loader] [0mStarting app
+306289 [0;32m[I][FuriHalNfc] [0mNFC chip id: 0xFF
+306291 [0;32m[I][FuriHalNfc] [0mBoot diag: fail, attempts 8, ids: FF FF FF FF FF FF FF FF
+306295 [0;31m[E][FuriHalNfc] [0mWrong chip id: got 0xFF, expected 0x28, retrying after chip reset
+306306 [0;32m[I][FuriHalNfc] [0mNFC chip id after reset: 0xFF
+306308 [0;31m[E][FuriHalNfc] [0mWrong chip id after reset: got 0xFF
+312078 [0;32m[I][Loader] [0mApp returned: 0
+312088 [0;32m[I][Loader] [0mApplication stopped. Free heap: 147112
+312097 [0;32m[I][AnimationStorage] [0mBase manifest selected
+312247 [0;32m[I][AnimationManager] [0mSelect 'L1_Sleep_128x64' animation
+312253 [0;32m[I][AnimationManager] [0mLoad animation 'L1_Sleep_128x64'
+319861 [0;32m[I][AnimationManager] [0mUnload animation 'L1_Sleep_128x64'
+319865 [0;32m[I][Loader] [0mLoading /ext/apps/NFC/nfc.fap
+320024 [0;32m[I][Loader] [0mMapping
+320036 [0;32m[I][Elf] [0mTotal size of loaded sections: 74893
+320039 [0;32m[I][Loader] [0mLoaded in 174ms
+320041 [0;32m[I][Loader] [0mStarting app
+320044 [0;32m[I][FuriHalNfc] [0mNFC chip id: 0xFF
+320046 [0;32m[I][FuriHalNfc] [0mBoot diag: fail, attempts 8, ids: FF FF FF FF FF FF FF FF
+320051 [0;31m[E][FuriHalNfc] [0mWrong chip id: got 0xFF, expected 0x28, retrying after chip reset
+320061 [0;32m[I][FuriHalNfc] [0mNFC chip id after reset: 0xFF
+320063 [0;31m[E][FuriHalNfc] [0mWrong chip id after reset: got 0xFF
+326095 [0;32m[I][Loader] [0mApp returned: 0
+326105 [0;32m[I][Loader] [0mApplication stopped. Free heap: 147112
+326115 [0;32m[I][AnimationStorage] [0mBase manifest selected
+326265 [0;32m[I][AnimationManager] [0mSelect 'L1_Sleep_128x64' animation
+326271 [0;32m[I][AnimationManager] [0mLoad animation 'L1_Sleep_128x64'
+363604 [0;34m[D][BleGap] [0mStart: 4
+363605 [0;34m[D][BleGap] [0mset_non_discoverable success
+363608 [0;34m[D][BtSrv] [0mcall 0, lock 0x00000000, result 0x00000000
+389894 [0;32m[I][AnimationStorage] [0mBase manifest selected
+390639 [0;32m[I][AnimationManager] [0mSelect 'L1_Read_books_128x64' animation

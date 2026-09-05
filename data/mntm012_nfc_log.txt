@@ -1,0 +1,57 @@
+log debug
+Current log level: debug
+Use <log ?> to list available log levels
+Press CTRL+C to stop...
+49648 [0;32m[I][AnimationManager] [0mUnload animation 'L1_Tv_128x47'
+49656 [0;32m[I][Loader] [0mLoading /ext/apps/NFC/nfc.fap
+51403 [0;32m[I][Loader] [0mMapping
+51413 [0;32m[I][Elf] [0mTotal size of loaded sections: 56385
+51416 [0;32m[I][Loader] [0mLoaded in 1760ms
+51418 [0;32m[I][Loader] [0mStarting app
+51421 [0;31m[E][FuriHalNfc] [0mWrong chip id
+54640 [0;34m[D][BtSrv] [0mcall 1, lock 0x00000000, result 0x00000000
+54646 [0;34m[D][GattChar] [0mUpdating Battery Level char
+58102 [0;32m[I][Loader] [0mApp returned: 0
+58111 [0;32m[I][Loader] [0mApplication stopped. Free heap: 143736
+58114 [0;32m[I][Loader] [0mLaunch queue empty
+58123 [0;32m[I][AnimationStorage] [0mBase manifest selected
+58368 [0;32m[I][AnimationManager] [0mSelect 'L1_Tv_128x47' animation
+58372 [0;32m[I][AnimationManager] [0mLoad animation 'L1_Tv_128x47'
+61146 [0;32m[I][AnimationManager] [0mUnload animation 'L1_Tv_128x47'
+61155 [0;32m[I][Loader] [0mLoading /ext/apps/NFC/nfc.fap
+61298 [0;32m[I][Loader] [0mMapping
+61308 [0;32m[I][Elf] [0mTotal size of loaded sections: 56385
+61311 [0;32m[I][Loader] [0mLoaded in 156ms
+61313 [0;32m[I][Loader] [0mStarting app
+61316 [0;31m[E][FuriHalNfc] [0mWrong chip id
+62552 [0;34m[D][BleGap] [0mStart: 4
+62554 [0;34m[D][BleGap] [0mset_non_discoverable success
+62557 [0;34m[D][BtSrv] [0mcall 0, lock 0x00000000, result 0x00000000
+65924 [0;32m[I][Loader] [0mApp returned: 0
+65933 [0;32m[I][Loader] [0mApplication stopped. Free heap: 143720
+65936 [0;32m[I][Loader] [0mLaunch queue empty
+65949 [0;32m[I][AnimationStorage] [0mBase manifest selected
+66198 [0;32m[I][AnimationManager] [0mSelect 'L1_Tv_128x47' animation
+66202 [0;32m[I][AnimationManager] [0mLoad animation 'L1_Tv_128x47'
+66816 [0;32m[I][AnimationManager] [0mUnload animation 'L1_Tv_128x47'
+66825 [0;32m[I][Loader] [0mLoading /ext/apps/NFC/nfc.fap
+66967 [0;32m[I][Loader] [0mMapping
+66977 [0;32m[I][Elf] [0mTotal size of loaded sections: 56385
+66980 [0;32m[I][Loader] [0mLoaded in 155ms
+66982 [0;32m[I][Loader] [0mStarting app
+66985 [0;31m[E][FuriHalNfc] [0mWrong chip id
+71299 [0;32m[I][Loader] [0mApp returned: 0
+71307 [0;32m[I][Loader] [0mApplication stopped. Free heap: 143728
+71310 [0;32m[I][Loader] [0mLaunch queue empty
+71321 [0;32m[I][AnimationStorage] [0mBase manifest selected
+71564 [0;32m[I][AnimationManager] [0mSelect 'L1_Tv_128x47' animation
+71568 [0;32m[I][AnimationManager] [0mLoad animation 'L1_Tv_128x47'
+72501 [0;32m[I][AnimationManager] [0mUnload animation 'L1_Tv_128x47'
+72510 [0;32m[I][Loader] [0mLoading /ext/apps/NFC/nfc.fap
+72665 [0;32m[I][Loader] [0mMapping
+72675 [0;32m[I][Elf] [0mTotal size of loaded sections: 56385
+72678 [0;32m[I][Loader] [0mLoaded in 168ms
+72680 [0;32m[I][Loader] [0mStarting app
+72683 [0;31m[E][FuriHalNfc] [0mWrong chip id
+99640 [0;34m[D][BtSrv] [0mcall 1, lock 0x00000000, result 0x00000000
+99646 [0;34m[D][GattChar] [0mUpdating Battery Level char
